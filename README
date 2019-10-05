@@ -1,4 +1,5 @@
 Copy 'cy' to /usr/share/X11/xkb/symbols
+Copy 'XCompose' to ~/.XCompose
 
 Generic xkb command:
 setxkbmap -layout us,cy -option grp:caps_toggle -option compose:prsc
