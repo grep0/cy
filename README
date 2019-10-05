@@ -1,1 +1,4 @@
 Copy 'cy' to /usr/share/X11/xkb/symbols
+
+Generic xkb command:
+setxkbmap -layout us,cy -option grp:caps_toggle -option compose:prsc
