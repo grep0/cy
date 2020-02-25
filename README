@@ -1,5 +1,7 @@
 Copy 'cy' to /usr/share/X11/xkb/symbols
 Copy 'XCompose' to ~/.XCompose
 
+For Gnome: apply the patch on /usr/share/X11/xkb/rules/evdev.xml to make the layout available for Keyboard Settings
+
 Generic xkb command:
 setxkbmap -layout us,cy -option grp:caps_toggle -option compose:prsc

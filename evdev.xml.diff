@@ -1,0 +1,22 @@
+--- /usr/share/X11/xkb/rules/evdev.xml	2020-02-25 15:05:28.802084363 -0800
++++ /usr/share/X11/xkb/rules/evdev.xml.orig	2019-02-11 11:25:45.000000000 -0800
+@@ -6194,6 +6194,19 @@
+        </variant>
+       </variantList>
+     </layout>
++    <layout>
++      <configItem>
++        <name>cy</name>
++        <shortDescription>Cyrillic multilingual</shortDescription>
++	<description>Cyrillic multilingual phonetic</description>
++	<languageList>
++	  <iso639Id>rus</iso639Id>
++	  <iso639Id>ukr</iso639Id>
++	  <iso639Id>bel</iso639Id>
++	</languageList>
++      </configItem>
++      <variantList/>
++    </layout>
+   </layoutList>
+   <optionList>
+     <group allowMultipleSelection="true">
