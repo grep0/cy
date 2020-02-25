@@ -1,4 +1,5 @@
 # Additional compose keys
+include "%L"
 
 # Old Church Slavonic
 <Multi_key> <Cyrillic_ES> <Cyrillic_ES> : "Ѕ"  # Also Makedonian Dze
