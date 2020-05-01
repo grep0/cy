@@ -32,8 +32,8 @@ xkb_symbols "cyr_phonetic" {
     key <AD11> { [ Cyrillic_yu, Cyrillic_YU, bracketleft, braceleft ] };
     key <AD12> { [ Cyrillic_zhe, Cyrillic_ZHE, bracketright, braceright ] };
     key <AC01> { [ Cyrillic_a, Cyrillic_A, U046B, U046A] }; // Big Yus
-    key <AC02> { [ Cyrillic_es, Cyrillic_ES ] };
-    key <AC03> { [ Cyrillic_de, Cyrillic_DE, U0403, U0402 ] }; // Serbian Dje
+    key <AC02> { [ Cyrillic_es, Cyrillic_ES, U0455, U0405 ] }; // Zelo = Makedonian S
+    key <AC03> { [ Cyrillic_de, Cyrillic_DE, U0452, U0402 ] }; // Serbian Dje
     key <AC04> { [ Cyrillic_ef, Cyrillic_EF, U0473, U0472 ] }; // Fita
     key <AC05> { [ Cyrillic_ghe, Cyrillic_GHE, Ukrainian_ghe_with_upturn, Ukrainian_GHE_WITH_UPTURN ] };
     key <AC06> { [ Cyrillic_che, Cyrillic_CHE, U0458, U0408 ] };  // Serbian Tshe
