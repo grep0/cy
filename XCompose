@@ -67,5 +67,9 @@ include "%L"
 <Multi_key> <Cyrillic_N> <Cyrillic_SOFTSIGN> : "Њ"
 <Multi_key> <Cyrillic_N> <Cyrillic_softsign> : "Њ"
 <Multi_key> <Cyrillic_n> <Cyrillic_softsign> : "њ"
-
-
+<Multi_Key> <Cyrillic_G> <Cyrillic_SHORTI> : "Ѓ"
+<Multi_Key> <Cyrillic_G> <Cyrillic_shorti> : "Ѓ"
+<Multi_Key> <Cyrillic_g> <Cyrillic_shorti> : "ѓ"
+<Multi_Key> <Cyrillic_K> <Cyrillic_SHORTI> : "Ќ"
+<Multi_Key> <Cyrillic_K> <Cyrillic_shorti> : "Ќ"
+<Multi_Key> <Cyrillic_k> <Cyrillic_shorti> : "ќ"

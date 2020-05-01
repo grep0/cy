@@ -22,7 +22,7 @@ xkb_symbols "cyr_phonetic" {
     key <AD01> { [ Cyrillic_ya, Cyrillic_YA, U0467, U0466 ] }; // Little Yus
     key <AD02> { [ Cyrillic_sha, Cyrillic_SHA ] };
     key <AD03> { [ Cyrillic_ie, Cyrillic_IE, Cyrillic_io, Cyrillic_IO ] };
-    key <AD04> { [ Cyrillic_er, Cyrillic_ER ] };
+    key <AD04> { [ Cyrillic_er, Cyrillic_ER, U0463, U0462 ] }; // Yat
     key <AD05> { [ Cyrillic_te, Cyrillic_TE ] };
     key <AD06> { [ Cyrillic_yeru, Cyrillic_YERU, Ukrainian_i, Ukrainian_I ] };
     key <AD07> { [ Cyrillic_u, Cyrillic_U, Byelorussian_shortu, Byelorussian_SHORTU ] };
@@ -36,8 +36,8 @@ xkb_symbols "cyr_phonetic" {
     key <AC03> { [ Cyrillic_de, Cyrillic_DE, U0452, U0402 ] }; // Serbian Dje
     key <AC04> { [ Cyrillic_ef, Cyrillic_EF, U0473, U0472 ] }; // Fita
     key <AC05> { [ Cyrillic_ghe, Cyrillic_GHE, Ukrainian_ghe_with_upturn, Ukrainian_GHE_WITH_UPTURN ] };
-    key <AC06> { [ Cyrillic_che, Cyrillic_CHE, U0458, U0408 ] };  // Serbian Tshe
-    key <AC07> { [ Cyrillic_shorti, Cyrillic_SHORTI, U0463, U0462 ] }; // Yat
+    key <AC06> { [ Cyrillic_che, Cyrillic_CHE, U045B, U040B ] }; // Serbian Tshe
+    key <AC07> { [ Cyrillic_shorti, Cyrillic_SHORTI, U0458, U0408 ] }; // Serbian J
     key <AC08> { [ Cyrillic_ka, Cyrillic_KA ] };
     key <AC09> { [ Cyrillic_el, Cyrillic_EL, U0459, U0409 ] }; // Serbian Lj
     key <AC10> { [ semicolon, colon, ellipsis ] };
@@ -45,7 +45,7 @@ xkb_symbols "cyr_phonetic" {
     key <AC12> { [ Cyrillic_e, Cyrillic_E, Ukrainian_ie, Ukrainian_IE ] };
     key <AB01> { [ Cyrillic_ze, Cyrillic_ZE ] };
     key <AB02> { [ Cyrillic_ha, Cyrillic_HA ] };
-    key <AB03> { [ Cyrillic_tse, Cyrillic_TSE ] };
+    key <AB03> { [ Cyrillic_tse, Cyrillic_TSE, U045F, U040F ] }; // Serbian Dzhe
     key <AB04> { [ Cyrillic_ve, Cyrillic_VE, U0475, U0474 ] }; // Izhitsa
     key <AB05> { [ Cyrillic_be, Cyrillic_BE ] };
     key <AB06> { [ Cyrillic_en, Cyrillic_EN, U045A, U040A ] }; // Serbian Nj
