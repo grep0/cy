@@ -1,5 +1,5 @@
 # Layout
-[layout]
+![layout]
 
 # Install
 
@@ -14,4 +14,4 @@ setxkbmap -layout us,cy -option grp:caps_toggle -option compose:prsc
 ```
 (I am using CapsLock for switching layouts and PrintScreen as Compose key)
 
-[layout]: CY.png "Cyrillic keyboard layout"
+[layout]:https://github.com/grep0/cy/blob/master/CY.png?raw=true  "Cyrillic keyboard layout"
