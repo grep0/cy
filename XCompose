@@ -1,6 +1,30 @@
 # Additional compose keys
 include "%L"
 
+# Ukrainian
+<Multi_key> <Cyrillic_I> <Cyrillic_I>   : "І"
+<Multi_key> <Cyrillic_I> <Cyrillic_i>   : "І"
+<Multi_key> <Cyrillic_i> <Cyrillic_i>   : "і"
+<Multi_key> <Cyrillic_I> <quotedbl>     : "Ї"
+<Multi_key> <Cyrillic_i> <quotedbl>     : "ї"
+<Multi_key> <quotedbl> <Cyrillic_I>     : "Ї"
+<Multi_key> <quotedbl> <Cyrillic_i>     : "ї"
+<Multi_key> <Cyrillic_J> <Cyrillic_I>   : "Ї"
+<Multi_key> <Cyrillic_J> <Cyrillic_i>   : "Ї"
+<Multi_key> <Cyrillic_j> <Cyrillic_i>   : "ї"
+<Multi_key> <Cyrillic_IE> <Cyrillic_IE> : "Є"
+<Multi_key> <Cyrillic_IE> <Cyrillic_ie> : "Є"
+<Multi_key> <Cyrillic_ie> <Cyrillic_ie> : "є"
+<Multi_Key> <Cyrillic_G> <Cyrillic_G>   : "Ґ"
+<Multi_Key> <Cyrillic_G> <Cyrillic_g>   : "Ґ"
+<Multi_Key> <Cyrillic_g> <Cyrillic_g>   : "ґ"
+
+# Belarusian
+<Multi_Key> <Cyrillic_U> <minus>        : "Ў"
+<Multi_Key> <minus> <Cyrillic_U>        : "Ў"
+<Multi_Key> <Cyrillic_u> <minus>        : "ў"
+<Multi_Key> <minus> <Cyrillic_u>        : "ў"
+
 # Old Church Slavonic
 <Multi_key> <Cyrillic_ES> <Cyrillic_ES> : "Ѕ"  # Also Makedonian Dze
 <Multi_key> <Cyrillic_ES> <Cyrillic_es> : "Ѕ"
@@ -8,9 +32,6 @@ include "%L"
 <Multi_key> <Cyrillic_O> <Cyrillic_O>   : "Ѡ"
 <Multi_key> <Cyrillic_O> <Cyrillic_o>   : "Ѡ"
 <Multi_key> <Cyrillic_o> <Cyrillic_o>   : "ѡ"
-<Multi_key> <Cyrillic_IE> <Cyrillic_IE> : "Є"  # Also Ukrainian IE
-<Multi_key> <Cyrillic_IE> <Cyrillic_ie> : "Є"
-<Multi_key> <Cyrillic_ie> <Cyrillic_ie> : "є"
 <Multi_key> <Cyrillic_IE> <Cyrillic_I>  : "Ѣ"
 <Multi_key> <Cyrillic_IE> <Cyrillic_i>  : "Ѣ"
 <Multi_key> <Cyrillic_ie> <Cyrillic_i>  : "ѣ"
