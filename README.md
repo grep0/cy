@@ -17,7 +17,7 @@ following languages:
 Copy 'cy' to /usr/share/X11/xkb/symbols
 Copy 'XCompose' to ~/.XCompose
 
-For Gnome: apply the patch on /usr/share/X11/xkb/rules/evdev.xml to make the layout available for Keyboard Settings
+For Gnome: apply the patch on /usr/share/X11/xkb/rules/evdev.xml to make the layout available for Keyboard Settings; do the same change in /usr/share/X11/xkb/rules/base.xml
 
 Generic xkb command:
 ```sh
